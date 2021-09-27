@@ -136,7 +136,7 @@
   color: #ffffff;
   height: 10px;
 }
-@media(max-width:640px) , (orientation:portrait){
+@media(max-width:640px){
   .header{
     width: 100%;
     background-image: url("../images/banner-mobile.jpg");
@@ -186,7 +186,7 @@
      width: 79%;
   }
 }
-@media(max-width:640px), (orientation:portrait){
+@media(max-width:640px){
   .welcome-title{
   padding: 0;
   font-size:6.5vw;
@@ -265,7 +265,7 @@
     min-height: 15.5em;
   }
 }
-@media(max-width:640px) , (orientation: portrait){
+@media(max-width:640px){
   .trend-item{
     font-size: 3.6vw;
     width: 100%;
@@ -346,7 +346,7 @@
   display: flex;
   justify-content: space-between;
 }
-@media(max-width: 640px)   , (orientation: portrait){
+@media(max-width: 640px){
   .container{
     width: 91.5%;
     padding-left: 0;
@@ -391,7 +391,7 @@
     margin-top: 40px;
   }
 }
-@media (max-width: 640px)   , (orientation: portrait){
+@media (max-width: 640px){
   .article-list{
     width: 100%;
   }
@@ -527,7 +527,7 @@
     margin-top: 58px;
   }
 }
-@media(max-width:640px)  , (orientation: portrait){
+@media(max-width:640px){
   .section-block{
    width: 100%;
   }
@@ -802,7 +802,7 @@
     background-color:#eff6f1;
   }
 }
-@media(max-width: 640px) , (orientation:portrait){
+@media(max-width: 640px){
   .our-goods-list{
     display: flex;
     flex-direction: column;
