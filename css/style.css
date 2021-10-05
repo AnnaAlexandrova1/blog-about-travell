@@ -1136,6 +1136,8 @@
 @media (min-width: 1200px) {
   .popup-container {
     width: 23.5%;
+    max-width: 40%;
+    margin-top: 20vh;
   }
 }
 .popup-title {
